@@ -1,6 +1,5 @@
 Programming Question 1
 1 point possible (graded)
-Download the text file here. (Right click and select "Save As...")
 
 This file contains all of the 100,000 integers between 1 and 100,000 (inclusive) in some order, with no integer repeated.
 
